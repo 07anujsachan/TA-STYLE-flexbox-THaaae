@@ -141,16 +141,16 @@ aside{
         width: 100%;
     }
     footer{
-        background-color: #222946;
+        background-color: #1a2037;
         padding: 15px 0;
     }
     .fa-brands{
-        color: rgb(175, 170, 170);
+        color: rgb(162, 157, 157);
         font-size: 30px;
         margin-left: 15px;
       
     }
     .copy{
- color: rgb(163, 158, 158);
- font-size: 30px;
+ color: rgb(152, 149, 149);
+ font-size: 32px;
     }
